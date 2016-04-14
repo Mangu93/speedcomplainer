@@ -14,8 +14,8 @@ shutdownFlag = False
 
 def main(filename, argv):
     print "======================================"
-    print " Starting Speed Complainer!           "
-    print " Lets get noisy!                      "
+    print " Arrancando Quejica del Wifi!         "
+    print " A dar la lata!                       "
     print "======================================"
 
     global shutdownFlag
